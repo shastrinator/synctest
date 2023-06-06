@@ -1,0 +1,2 @@
+# synctest
+argocd sync debug
